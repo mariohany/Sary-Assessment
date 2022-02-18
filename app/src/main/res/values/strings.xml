@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sary assessment</string>
+    <string name="title_home">Shop</string>
+    <string name="title_dashboard">Requests</string>
+    <string name="title_notifications">Profile</string>
+    <string name="do_you_have_special_order">Do you have a special order?</string>
+</resources>
